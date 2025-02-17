@@ -145,7 +145,7 @@ export const Hero = () => {
             </motion.div>
 
             <div className="absolute inset-0 hidden md:block">
-                <ShinyEffect left={0} top={0} size={1400}/>
+                <ShinyEffect left={0} top={0} size={1400} />
             </div>
         </div>
     )
